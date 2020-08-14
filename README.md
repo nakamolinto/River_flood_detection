@@ -9,6 +9,7 @@
 # Features
 
 川の氾濫状況をAIがモニタリングして、溢れてたら降りたり近づいたりしないように警告を発信する。
+
 River flood detection. 
 If AI camera finds it is dangerous, it warns.
 
@@ -42,19 +43,20 @@ Just Use install and use anaconda3
 # Usage
 
 jupyter notebookでipynbを実装してください。
-imagesにそれぞれ、必要なデータを置く（ファイル名は画像ファイルであれば何でも良い）
+手元のデータで学習したい場合は、imagesには３値分類用のデータをおきます。
+（ファイル名は画像ファイルであれば何でも良い）
 
 # Note
 If you need more information please refer to below URL, qiita about this project.
-###qiita
+### qiita
 https://qiita.com/pythonmachine/items/77629fcee8db8c5bc674
 
 
 # Author
 
-* 作成者:nakamolinto
+- nakamolinto
 
-if you have any question please feel free to contact me:
+- if you have any question please feel free to contact me:
 Email: s0527225@yahoo.co.jp
 
 
@@ -62,7 +64,7 @@ Email: s0527225@yahoo.co.jp
 # License
 free to use
 
-# References
+## References
 
 https://qiita.com/yu4u/items/078054dfb5592cbb80cc
 
@@ -70,6 +72,6 @@ https://www.kaggle.com/c/aptos2019-blindness-detection/notebooks?sortBy=voteCoun
 
 http://www.qsr.mlit.go.jp/useful/n-shiryo/kikaku/kenkyu/h30/04/4_03(18).pdf
 
-# twitter(Author:Nakamolinto)
+### twitter(Author:Nakamolinto)
 https://twitter.com/pythonmachine
 
