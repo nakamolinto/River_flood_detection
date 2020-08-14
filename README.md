@@ -1,6 +1,6 @@
 # Name
-### River_flood_detection
-### 川の氾濫状況探知AI
+- River_flood_detection
+- 川の氾濫状況探知AI
 
 # DEMO
 
