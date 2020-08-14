@@ -57,7 +57,7 @@ https://qiita.com/pythonmachine/items/77629fcee8db8c5bc674
 - nakamolinto
 
 - if you have any question please feel free to contact me:
-Email: s0527225@yahoo.co.jp
+- Email: s0527225@yahoo.co.jp
 
 
 
