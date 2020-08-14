@@ -70,6 +70,6 @@ https://www.kaggle.com/c/aptos2019-blindness-detection/notebooks?sortBy=voteCoun
 
 http://www.qsr.mlit.go.jp/useful/n-shiryo/kikaku/kenkyu/h30/04/4_03(18).pdf
 
-#twitter
+# twitter(Author:Nakamolinto)
 https://twitter.com/pythonmachine
 
