@@ -38,7 +38,7 @@ If AI camera finds it is dangerous, it warns.
 
 # Installation
 
-Just Use install and use anaconda3
+Just install and use anaconda3
 
 
 # Usage
